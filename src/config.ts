@@ -5,8 +5,8 @@ export const siteConfig = {
   accentColor: "#1d4ed8",
   social: {
     email: "pelts2002@mail.ru",
-    linkedin: "https://linkedin.com/in/yourprofile",
-    twitter: "https://x.com/rfitzio",
+    linkedin: "https://t.me/Danil_pppl",
+    twitter: "https://vk.com/id277744345",
     github: "https://github.com/pelts2002",
   },
   aboutMe:
@@ -64,8 +64,8 @@ export const siteConfig = {
       ],
     },
     {
-      school: "Online Platform",
-      degree: "Full Stack Development Certificate",
+      school: "",
+      degree: "Онлайн платформы",
       dateRange: "2024 - ...",
       achievements: [
         "Основы работы с Git – Яндекс.Практикум",
